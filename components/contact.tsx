@@ -69,7 +69,7 @@ export function Contact() {
                   <a
                     href="tel:+918089136402"
                     className="text-muted-foreground font-[var(--font-body)] hover:text-accent"
-                    aria-label="Call us at +91 98765 43210"
+                    aria-label="Call us at +91 8089136402"
                   >
                     +91 8089136402
                   </a>
